@@ -539,7 +539,7 @@ float: none;
 }
 @media screen and (max-width: 600px){
   .desktop{display: none;}
-  .mobile{
+  .mobile,.mobile-nav{
     display: block;
   }
   .header{
