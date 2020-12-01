@@ -174,7 +174,7 @@ grid-row-gap: 95px;
 }
 .image-1{
 /*here's The thingy that works it*/
-background: url("../images/i dey your back.jpg");
+background: url("../images/i dey your back.JPG");
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
@@ -198,7 +198,7 @@ height: 340px;
 }
 .image-4{
 /*here's The thingy that works it*/
-background: url("../images/Broken.jpg");
+background: url("../images/BROKEN.jpg");
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
