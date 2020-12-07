@@ -596,7 +596,7 @@ float: none;
       transition: All 0.55s linear;
    }
     .side-nav-mobile li a:active{
-      color: red;
+      color: #e4ddce;
     }
  .side-nav-mobile li a{
    padding:10px 0px;
